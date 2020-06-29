@@ -1,0 +1,5 @@
+<resources>
+    <string name="brvah_loading">Đang tải&#8230;</string>
+    <string name="brvah_load_failed">Đang tải thất bại ,vui lòng thử lại</string>
+    <string name="brvah_load_end">không có nhiều dữ liệu</string>
+</resources>
